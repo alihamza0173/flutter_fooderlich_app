@@ -27,7 +27,7 @@
     },
     {
       "name": "collection",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/collection-1.17.2",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/collection-1.18.0",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -45,15 +45,15 @@
     },
     {
       "name": "ffi",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/ffi-2.1.0",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/ffi-2.1.2",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "flutter",
-      "rootUri": "file:///home/darkreaper/dev/flutter/packages/flutter",
+      "rootUri": "file:///opt/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "flutter_lints",
@@ -63,9 +63,9 @@
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///home/darkreaper/dev/flutter/packages/flutter_test",
+      "rootUri": "file:///opt/flutter/packages/flutter_test",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "google_fonts",
@@ -75,15 +75,33 @@
     },
     {
       "name": "http",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/http-1.1.0",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/http-1.2.1",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "http_parser",
       "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "leak_tracker",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/leak_tracker-10.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "leak_tracker_flutter_testing",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/leak_tracker_flutter_testing-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "leak_tracker_testing",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/leak_tracker_testing-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
     },
     {
       "name": "lints",
@@ -93,45 +111,45 @@
     },
     {
       "name": "matcher",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/matcher-0.12.16",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/matcher-0.12.16+1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.0"
     },
     {
       "name": "material_color_utilities",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/material_color_utilities-0.5.0",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/material_color_utilities-0.8.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "meta",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/meta-1.9.1",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/meta-1.11.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "path",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/path-1.8.3",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/path-1.9.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "path_provider",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/path_provider-2.1.1",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/path_provider-2.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/path_provider_android-2.2.0",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/path_provider_android-2.2.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "path_provider_foundation",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.1",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "path_provider_linux",
@@ -141,9 +159,9 @@
     },
     {
       "name": "path_provider_platform_interface",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.1",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "path_provider_windows",
@@ -153,21 +171,21 @@
     },
     {
       "name": "platform",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/platform-3.1.2",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/platform-3.1.4",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.6",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///home/darkreaper/dev/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///opt/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "source_span",
@@ -177,15 +195,15 @@
     },
     {
       "name": "stack_trace",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/stack_trace-1.11.0",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/stack_trace-1.11.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "stream_channel",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/stream_channel-2.1.1",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/stream_channel-2.1.2",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.19"
     },
     {
       "name": "string_scanner",
@@ -201,9 +219,9 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/test_api-0.6.0",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/test_api-0.6.1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.0"
     },
     {
       "name": "typed_data",
@@ -218,22 +236,28 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "web",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/web-0.1.4-beta",
-      "packageUri": "lib/",
-      "languageVersion": "3.1"
-    },
-    {
-      "name": "win32",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/win32-5.0.9",
+      "name": "vm_service",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/vm_service-13.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
-      "name": "xdg_directories",
-      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/xdg_directories-1.0.3",
+      "name": "web",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/web-0.5.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.3"
+    },
+    {
+      "name": "win32",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/win32-5.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "xdg_directories",
+      "rootUri": "file:///home/darkreaper/.pub-cache/hosted/pub.dev/xdg_directories-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
     },
     {
       "name": "fooderlich",
@@ -242,7 +266,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2023-10-09T05:12:36.670176Z",
+  "generated": "2024-02-24T15:56:33.733260Z",
   "generator": "pub",
-  "generatorVersion": "3.1.3"
+  "generatorVersion": "3.3.0"
 }
